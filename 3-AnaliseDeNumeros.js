@@ -6,9 +6,9 @@ quantos valores informados são positivos e são negativos.
 Exemplo--
 Números: -5, 0, -3, -4, 12  
 3 valor(es) par(es)
-2 valor(es) impar(es)
+2 valor(es) impar(es) 
 1 valor(es) positivo(s)
-3 valor(es) negativo(s)
+3 valor(es) negativo(s)s
 
 */
 
